@@ -1,0 +1,13 @@
+* { 
+ border: 1px solid #fa123e;
+}
+html {
+background-color: mediumSeaGreen;
+}
+body {
+/*Eltartás,távolság hatorlo vonal és a tartalom között*/
+padding: 50px;
+/*Margó,távolság hatorlo vonalon kivul*/
+margin: 50px;
+background-color:tomato;
+}
